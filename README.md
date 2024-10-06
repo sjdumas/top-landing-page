@@ -9,7 +9,7 @@ This is a required project for The Odin Project (TOP). It's a simple landing pag
 - Services and social media icons - [Font Awesome](https://fontawesome.com/)
 - Main font and features icons - [Google Fonts](https://fonts.google.com/)
 - Photos - [Unsplash](https://unsplash.com/)
-- CSS Flexbx:
+- CSS Flexbox:
     - [FLEX](https://flexbox.malven.co/)
     - [CSS Flexbox Tutorial w/ Cheatsheet](https://www.freecodecamp.org/news/css-flexbox-tutorial-with-cheatsheet/)
     - [CSS Flexbox Layout Guide](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
